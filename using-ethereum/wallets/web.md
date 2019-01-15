@@ -19,6 +19,7 @@ Web wallets are wallets hosted on a website, they may be custodial or act as an 
 * [Metamask](https://metamask.io/) - Chrome extension Ether wallet with ERC tokens support
 * [MyEtherWallet](https://github.com/MyEtherWallet) - Open-source [tool](https://www.myetherwallet.com/) for interacting with the blockchains easily & securely
 * [MyCrypto](https://github.com/MyCryptoHQ) - Open-source, client-side [tool](https://mycrypto.com/account) for generating ether wallets, handling ERC-20 tokens, and interacting with the blockchain more easily
+* [Fetch](https://app.hellofetch.co) - Closed-source wallet to manage, track and trade 200+ ERC-20 tokens. Integrates with 20 exchanges for live rates and one-click trading directly from the app.
 * [Portis](https://portis.io/) - Web-based wallet for easy user on-boarding to your DApp
 * [Eth lightwallet](https://github.com/ConsenSys/eth-lightwallet) - Lightweight JS Wallet for Node and the browser
 * [SpankCard](https://github.com/SpankChain/SpankCard) - An in-browser Ethereum wallet with support for payment channels
